@@ -20,3 +20,7 @@
 
 https://food-peek-git-master-jhosefxs-projects.vercel.app/#
 
+#Results
+
+<img src="https://github.com/Jhosefx/FOOD-Peek/blob/master/Git/Resultado.png"/>
+
