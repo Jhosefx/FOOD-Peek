@@ -1,7 +1,5 @@
 # FOOD-Peek
 
-# SignUP
-
 <h1 align="center">LandingPage</h1>
 
 # Technologies Used
